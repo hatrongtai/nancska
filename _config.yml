@@ -41,9 +41,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Là một người hòa đồng thân thiện thích giúp đỡ ngời khác </p>
-Chăm chỉ, cầu tiến và không ngại khó trong công việc </p>
-Luôn đặt mình trong tư thế sẵn sàng học hỏi nâng cao kiến thức bản thân </p>
+Là một người hòa đồng thân thiện thích giúp đỡ ngời khác
+Chăm chỉ, cầu tiến và không ngại khó trong công việc 
+Luôn đặt mình trong tư thế sẵn sàng học hỏi nâng cao kiến thức bản thân 
 
 content:
   - title:  Lý tưởng sống # Title for the section
@@ -53,9 +53,9 @@ content:
         title: Vấp ngã để thành công        
         description: | # this will include new lines to allow paragraphs
         Thành công không phải đích đến cuối cùng,
-thất bại cũng chẳng phải vực sâu thăm </p>
+thất bại cũng chẳng phải vực sâu thăm 
 thẳm, đó chỉ là động lực để bạn vững vàng
-hơn trên con đường sắp bước. Biết đứng dậy </p>
+hơn trên con đường sắp bước. Biết đứng dậy 
 sau vấp ngã bao giờ cũng là điều đáng trân
 quý nhất
   - title: Experience
