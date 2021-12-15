@@ -51,13 +51,7 @@ content:
     content:
       - layout: left
         title: Vấp ngã để thành công        
-        description: | # this will include new lines to allow paragraphs
-        Thành công không phải đích đến cuối cùng,
-thất bại cũng chẳng phải vực sâu thăm 
-thẳm, đó chỉ là động lực để bạn vững vàng
-hơn trên con đường sắp bước. Biết đứng dậy 
-sau vấp ngã bao giờ cũng là điều đáng trân
-quý nhất
+        description: Thành công không phải đích đến cuối cùng, thất bại cũng chẳng phải vực sâu thăm thẳm, đó chỉ là động lực để bạn vững vàng hơn trên con đường sắp bước. Biết đứng dậy sau vấp ngã bao giờ cũng là điều đáng trân quý nhất
   - title: Experience
     layout: list
     content:
