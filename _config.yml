@@ -71,12 +71,7 @@ content:
         description: Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
   - title: A Little More About Me
     layout: text 
-    content: | # this will include new lines to allow paragraphs
-    Sở thích 
-    
-
-  
-
+    content:  Sở thích 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
