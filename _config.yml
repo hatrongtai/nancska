@@ -40,7 +40,9 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: Là một người hòa đồng thân thiện thích giúp đỡ ngời khác <p> Chăm chỉ, cầu tiến và không ngại khó trong công việc <p> Luôn đặt mình trong tư thế sẵn sàng học hỏi nâng cao kiến thức bản thân 
+about_content: Là một người hòa đồng thân thiện thích giúp đỡ ngời khác 
+Chăm chỉ, cầu tiến và không ngại khó trong công việc 
+Luôn đặt mình trong tư thế sẵn sàng học hỏi nâng cao kiến thức bản thân 
 
 content:
   - title:  Lý tưởng sống # Title for the section
