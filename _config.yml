@@ -71,9 +71,9 @@ content:
   - title: A Little More About Me
     layout: list
     content:
-    layout: left 
-    title: Sở thích
-    description: Là một người năng động nên mình khá thích được đi du lịch, được tham gia vào các câu lạc bộ học thuật hay tình nguyện để vừa học hỏi vừa có thêm nhiều muối quan hệ. Và mình cũng khá là thích nghe nhạc và tập luyện thể thao để có một sức khỏe tốt.
+      - layout: left 
+        title: Sở thích
+        description: Là một người năng động nên mình khá thích được đi du lịch, được tham gia vào các câu lạc bộ học thuật hay tình nguyện để vừa học hỏi vừa có thêm nhiều muối quan hệ. Và mình cũng khá là thích nghe nhạc và tập luyện thể thao để có một sức khỏe tốt.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
