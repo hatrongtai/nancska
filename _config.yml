@@ -48,18 +48,18 @@ content:
       - layout: left
         title: Vấp ngã để thành công        
         description: Thành công không phải đích đến cuối cùng, thất bại cũng chẳng phải vực sâu thăm thẳm, đó chỉ là động lực để bạn vững vàng hơn trên con đường sắp bước. Biết đứng dậy sau vấp ngã bao giờ cũng là điều đáng trân quý nhất!!!
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+ # - title: Experience
+   # layout: list
+   # content:
+      #- layout: right
+      #  title: Company name
+       # sub_title: Job title
+       # caption: Date Range (eg. November 2016 - present)
+       # link: Link to company (optional)
+       # quote: >
+       #   Short description of the company (optional)
+       # description: | # this will include new lines to allow paragraphs
+        #  Description of role
   - title: Education
     layout: list
     content:
